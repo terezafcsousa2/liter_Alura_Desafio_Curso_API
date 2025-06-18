@@ -27,7 +27,9 @@ Tarefas
                     5 - Listar livro em um determinado idioma
                     0 - Sair
 # DEPENDÊNCIAS
-* JDK 17 ou 21 ou em versão estável
+* linguagem Java.
+* Instalar o JDK 17 ou 21 ou em versão estável
 * Configurar o projeto utilizando https://start.spring.io/
 * Utilizar o banco de dados PostgreSQL (https://www.postgresql.org/download/)
-* Utilizar a IDE Intellij (opcional)
+* IDE (Ambiente de desenvolvimento integrado) IntelliJ IDEA- opcional - https://www.jetbrains.com/pt-br/idea/download/?section=windows
+
