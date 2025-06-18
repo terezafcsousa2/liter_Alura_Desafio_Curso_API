@@ -12,4 +12,8 @@ Tarefas
                     4 - Listar autores vivos em um determinado ano
                     5 - Listar livro em um determinado idioma
                     0 - Sair
-  
+# DEPENDÊNCIAS
+JDK 17 ou 21 ou em versão estável
+configurar o projeto utilizando https://start.spring.io/
+utilizar o banco de dados PostgreSQL (https://www.postgresql.org/download/)
+utilizar a IDE Intellij (opcional)
