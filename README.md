@@ -8,9 +8,9 @@
 
 <h2 align= "center"> Esse programa faz parte do desafio: JAVA_screanmatch_JPA G8 - ONE/Challenge literalura.</h2>
 
-
+<div align="center">
 <img src="https://github.com/terezafcsousa2/liter_Alura_Desafio_Curso_API/blob/main/assets/badge_desafio_literalura.png" alt= "Badge">
-
+</div>
 
 # liter_Alura_Desafio_Curso_API
 
